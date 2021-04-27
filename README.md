@@ -15,6 +15,6 @@ Tenho 19 anos, e a alguns anos descobri minha paixão por algoritmos e programa�
 
 Redes sociais onde você pode me encontrar:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isantest)](https://github.com/isantest)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IsabelleNFerreira)](https://github.com/IsabelleNFerreira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabellenferreira/)](https://www.linkedin.com/in/isabellenferreira/)
 [![Codewars Badge](https://img.shields.io/badge/-Codewars-red?style=flat-square&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/Isabelle-Nunes)](https://www.codewars.com/users/Isabelle-Nunes)
