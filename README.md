@@ -8,7 +8,7 @@ Tenho 19 anos, e a alguns anos descobri minha paixão por algoritmos e programa�
 - 🥇 Ganhei na faculdade o 1° lugar no Prêmio de Qualidade Interna em Análise e Desenvolvimento de Sistemas em 2019.2 com maior Coeficiente de Rendimento;
 - 💻 Estou participando do [Projeto Matrix](http://www.projetomatrix.com/).
 
-#### > Bem vindo ao meu GitHub!
+#### > Bem vindo(a) ao meu GitHub!✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelleNFerreira&theme=radical)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleNFerreira&show_icons=true&theme=radical) 
 
