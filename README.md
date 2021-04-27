@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá 😊👋
 Meu nome é Isabelle Nunes!
 
 Tenho 19 anos, e a alguns anos descobri minha paixão por algoritmos e programação.
