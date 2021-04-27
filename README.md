@@ -5,7 +5,7 @@ Tenho 19 anos, e a alguns anos descobri minha paixão por algoritmos e programa�
 
 - 📍 Sou do Rio de Janeiro;
 - 📚 Estou cursando 4° semestre de Ciência da Computação no [Centro Universitário UniCarioca](https://www.unicarioca.edu.br/);
-- 🥇 Ganhei na faculdade o 1° lugar no Prêmio de Qualidade Interna em Análise e Desenvolvimento de Sistemas em 2019.2 com maior Coeficiente de Rendimento;
+- 🥇 Ganhei na faculdade o 1° lugar no Programa de Qualidade Interna em Análise e Desenvolvimento de Sistemas em 2019.2 com maior Coeficiente de Rendimento;
 - 💻 Estou participando do [Projeto Matrix](http://www.projetomatrix.com/).
 
 #### > Bem vindo(a) ao meu GitHub!✨
