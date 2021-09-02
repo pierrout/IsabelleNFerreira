@@ -28,5 +28,6 @@ Redes sociais onde você pode me encontrar:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabellenferreira/)](https://www.linkedin.com/in/isabellenferreira/)
 [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/isabellenunes__)](https://www.instagram.com/isabellenunes__)
 [![Codewars Badge](https://img.shields.io/badge/-Codewars-red?style=for-the-badge&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/Isabelle-Nunes)](https://www.codewars.com/users/Isabelle-Nunes)
+![Gmail Badge](https://img.shields.io/badge/bellenunes24@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
